@@ -4,7 +4,7 @@ function Header()
 {
     return(
        <header>
-           <h1 style={headerStyle}> Reservations List</h1>
+           <h1 style={headerStyle}> Reservation List</h1>
        </header> 
     )
 }
